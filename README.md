@@ -1,0 +1,1 @@
+Hello developers! This is a clone based on myntra wesite. I have tried to cover all of the things which are on the official website. I have used html and css together to get the resulted output. To view the website, it is strongly suggested to view in a computer or a laptop. LINK : https://pratikdhengre97.github.io/Myntra-Clone/ 
